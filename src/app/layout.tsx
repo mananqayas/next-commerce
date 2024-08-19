@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev E-Commerce Application",
+  title: "Manan Qayas | Ecommerce App with NextJS and Wix Headless",
   description: "A complete e-commerce application with Next.js and Wix",
 };
 
